@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "NuGetTrends.Portal",
   "resources": {
-    "hash": "sha256-8rsLVg02waX417/5KDVIzkIpMTsrgxAT8TuwFIxw0vw=",
+    "hash": "sha256-NvX9ssy06YwVYG/ozDry0fxV/rFqd9rUOZU7MaMBLlw=",
     "jsModuleNative": {
       "dotnet.native.8.0.21.0bnud76ng2.js": "sha256-9Fzd5We95Rp03dEKIAbYjPDR3eWyLbmjMlYStvxyiok="
     },
@@ -43,7 +43,6 @@
       "Microsoft.Extensions.Localization.Abstractions.wasm": "sha256-MCtPiXisbWKIOH+e6zIqwxOQ3vRtXTLAlD3HWy0d9Kk=",
       "Microsoft.Extensions.Localization.wasm": "sha256-gf7Gi0NrGBJ05OsJrNCezrrLR1lLHxQPEO4Plbto4jA=",
       "Microsoft.Extensions.Logging.Abstractions.wasm": "sha256-uf1KJp0fVm0d3Bs2JFD1oxo857dVH+MA9AF/tlH5YEw=",
-      "Microsoft.Extensions.Logging.Configuration.wasm": "sha256-OmLzArB+/ChfPSCclC9jPl8ju8VNzfdPjN/Y7GRniYA=",
       "Microsoft.Extensions.Logging.wasm": "sha256-pa0M3exxNvk6g5anUwlaPC99Afawsi1GZvJeU1q/ZGM=",
       "Microsoft.Extensions.Options.ConfigurationExtensions.wasm": "sha256-C8ZA1VhhrMRPf8Qqv+OrW9za3ggJkCM9i1d8R/F1ETc=",
       "Microsoft.Extensions.Options.wasm": "sha256-5/m+yVFGRuY+N4jQnD+QETKH0AfhAsnVze5dJ5ogIVM=",
@@ -57,10 +56,7 @@
       "mscorlib.wasm": "sha256-MZJ1V6miMP318lQowft4FPkcszcibPLDTwKj235fSAc=",
       "MudBlazor.wasm": "sha256-mymvViGvh3Okgzohs/Oo4vZ6CfTXr/lbzmx5WuvSszY=",
       "netstandard.wasm": "sha256-RYAURbR1AHkUZYjKgu+B/i3N3VP4abnAaH+vxwJ8d3c=",
-      "NuGetTrends.Portal.wasm": "sha256-utG2pylcjJ2/t1gS8V+aE2TaWVmThiPsrZSz1k9cZJs=",
-      "Sentry.AspNetCore.Blazor.WebAssembly.wasm": "sha256-IczwgTh2pVlzmxY5AIMz/ms9r9aODctL+GSIWAT2REI=",
-      "Sentry.Extensions.Logging.wasm": "sha256-EYOvubYPgiaww7nwLbdOF1gRQIgmocrx4HWKw4OCJCo=",
-      "Sentry.wasm": "sha256-fwcOXvs0cOBs5ioNaPRTEwKo1mYLbe2E8qap28GCSDg=",
+      "NuGetTrends.Portal.wasm": "sha256-EvlqhXzVGD9B7zPgXhEA2ObEUT7mDneLCEpfrNge50w=",
       "System.AppContext.wasm": "sha256-rWifDEQjow5m/eEWsmQzxhu4v43G/DhNvoaxyd5UcXo=",
       "System.Buffers.wasm": "sha256-10W0eXs0Nd+icwf1SFLSdWRQ4iGeJVwAj4l7/WVH3pY=",
       "System.Collections.Concurrent.wasm": "sha256-1s2Sz+x8pBU/P97TDzPHM81FyRNA6JBEjhntQy+R+0o=",
